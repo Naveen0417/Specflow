@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.deps.json
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.json
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\bin\Debug\netcoreapp2.1\SeleniumTest.pdb
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.dll
+C:\Users\Admin\source\repos\SeleniumTest\SeleniumTest\obj\Debug\netcoreapp2.1\SeleniumTest.pdb
