@@ -3,6 +3,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.IO;
 using System.Reflection;
+using System.Threading;
 
 namespace SeleniumTest
 {
@@ -16,6 +17,7 @@ namespace SeleniumTest
             {
 
                 driver.Navigate().GoToUrl("https://www.amazon.in");
+                Thread.Sleep(2000);
                 driver.Quit();
             }
         }
