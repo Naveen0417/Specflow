@@ -17,7 +17,7 @@ namespace SeleniumTest
             {
 
                 driver.Navigate().GoToUrl("https://www.amazon.in");
-                Thread.Sleep(2000);
+                
                 driver.Quit();
             }
         }
